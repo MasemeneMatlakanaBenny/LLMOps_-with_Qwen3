@@ -1,1 +1,8 @@
-
+numpy
+torch
+transformers
+mlflow
+prefect
+kfp
+flask
+fastapi
