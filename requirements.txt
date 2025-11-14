@@ -1,8 +1,13 @@
 numpy
+pandas 
+matplotlib
+scikit-learn
 torch
 transformers
-mlflow
-prefect
-kfp
-flask
 fastapi
+flask
+mlflow
+wandb
+pydantic
+kfp
+prefect
